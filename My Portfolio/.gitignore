@@ -1,4 +1,2 @@
-*
-!index.html
-!README.md
-!.gitignore
+index.html
+.gitignore
